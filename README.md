@@ -9,14 +9,14 @@ slides from talks given by participants of OPLSS 2018
 | 8:00PM	| Hendrik Maarand  | Tallinn University of Technology | A Generalization of Brzozowski's Derivative |
 | 8:30PM	| Seth Purcell  |  | A message-based programming language for secure distributed systems |
 | 9:00PM	| Quinn Dougherty |  Community College of Philadelphia | Insufficient resources, general intelligence & reasoning without axioms |
-| 9:30PM Enzo Alda | Lakebolt Research | Generalizing spreadsheet with generally accepted programming language design principles ... for fun and (maybe) profit |
+| 9:30PM | Enzo Alda | Lakebolt Research | Generalizing spreadsheet with generally accepted programming language design principles ... for fun and (maybe) profit |
 
 ---
 
 ### THR 7/12 
 | Time	 | Presentor	| Organization | Title |
 | ---   | ---    | ---        | ---          |
-| 8:00PM | William DeMeo | CU, Boulder | Computational Universal Algebra |
+| 8:00PM | William DeMeo | University of Colorado, Boulder | Computational Universal Algebra |
 | 8:30PM | Diane Hosfelt | Mozilla Research | Rust and Formal Verification |
 | 9:00PM | Michael Roberts | | A Super-Brief Introduction to Kleene Algebra with Applications |
 
